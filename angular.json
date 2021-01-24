@@ -29,9 +29,8 @@
             ],
             "styles": [
               "src/styles.css",
-                "./node_modules/bootstrap/dist/css/bootstrap.min.css"
-              ],
-        
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+            ],
             "scripts": [
               "./node_modules/jquery/dist/jquery.js",
               "./node_modules/popper.js/dist/umd/popper.min.js",
@@ -130,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "testeBlog"
+  "defaultProject": "testeBlog",
+  "cli": {
+    "analytics": "951b0193-b48c-4ba0-9b7d-434717d97e2e"
+  }
 }
